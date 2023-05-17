@@ -1,5 +1,5 @@
 pipeline {
-  agent {label 'macOS'}
+  agent {label 'mac OS'}
 
   stages {
     stage('Hello') {
